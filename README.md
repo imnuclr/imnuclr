@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Charlie 👋</h1>
+<h1 align="center">Hey, I'm imnuclr 👋</h1>
 <p align="center"><i>Currently deep in home automation and full-stack side projects.</i></p>
 
 <p align="center">
