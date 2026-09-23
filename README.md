@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm imnuclr 👋</h1>
-<p align="center"><i>Currently deep in home automation and full-stack side projects.</i></p>
+<h1 align="center">Haiiii</h1>
+<p align="center"><i>Currently deep in caelestia shell.</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
